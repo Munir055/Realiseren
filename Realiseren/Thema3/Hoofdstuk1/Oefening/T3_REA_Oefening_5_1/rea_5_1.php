@@ -11,6 +11,7 @@
 ?>
 
 <h2>Uitschrijfformulier</h2>
+
 <form action="Oefenining5.1-resultaat.php" method="GET">
 	<label for="voornaam">Voornaam:</label><br>
 	<input type="text" id="voornaam" name="voornaam"><br>

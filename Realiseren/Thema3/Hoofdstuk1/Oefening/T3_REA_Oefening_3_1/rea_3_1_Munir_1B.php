@@ -10,7 +10,7 @@
 <head>
     <title>
         <?php
-        echo 'Realiseren instructies thema 3 en 4.';
+        echo 'T3_REA_Oefening_3_1.php';
         ?>
     </title>
     <meta charset="UTF-8">

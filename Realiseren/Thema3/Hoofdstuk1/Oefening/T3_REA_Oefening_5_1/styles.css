@@ -1,4 +1,4 @@
-/* Stijlen voor het formulier */
+/* Stijlen voor het pagina */
 body
 {
     background-color: goldenrod;
@@ -12,7 +12,8 @@ label
     margin-bottom: 5px;
     font-weight: bold;
 }
-textarea {
+textarea
+{
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;

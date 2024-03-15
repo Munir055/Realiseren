@@ -1,0 +1,31 @@
+/* Stijlen voor het pagina */
+body
+{
+    background-color: goldenrod;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+label
+{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+textarea
+{
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+footer
+{
+    background-color: darkslateblue;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+}

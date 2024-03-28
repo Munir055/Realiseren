@@ -6,18 +6,12 @@
  */
 ?>
 <nav>
-    <div class="hamburger-menu">
-        <div class="bar"></div>
-        <div class="bar"></div>
-        <div class="bar"></div>
-    </div>
-    <ul class="menu">
-        <li><a href="../peges/index.php">Home</a></li>
-        <li><a href="#">Behandelingen</a></li>
-        <li><a href="#">Inschrijven</a></li>
-        <li><a href="#">Afspraken</a></li>
-        <li><a href="#">Contact</a></li>
-        <li><a href="#">Blog</a></li>
-        <li><a href="../peges/Gebitstest.php">Verzorging</a></li>
+    <ul>
+        <li><a href="index.php"><img src="images/logol.jpg" class="logo" alt="Logo"></a></li>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Ontdek het park</a></li>
+        <li><a href="#">Plan je bezoek</a></li>
+        <li><a href="#">Kom overnachten</a></li>
+        <li><a href="#" class="nav">Tickets</a></li>
     </ul>
 </nav>
